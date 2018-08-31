@@ -1,4 +1,4 @@
-package dataStructures;
+package stackAndQueue;
 
 public class Stack {
 	private int maxSize;

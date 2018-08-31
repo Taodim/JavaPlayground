@@ -1,4 +1,4 @@
-package dataStructures;
+package stackAndQueue;
 
 public class Runner {
 
@@ -27,6 +27,8 @@ public class Runner {
 			long value = myQueue.remove();
 			System.out.println(value);
 		}
+		
+		
 		
 		
 	}
