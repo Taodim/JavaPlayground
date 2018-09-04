@@ -1,4 +1,4 @@
-package linkedList;
+package datastructureLinkedList;
 
 public class Node {
 	private int data;

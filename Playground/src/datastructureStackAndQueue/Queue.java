@@ -1,4 +1,4 @@
-package stackAndQueue;
+package datastructureStackAndQueue;
 
 public class Queue {
 	private int maxSize;

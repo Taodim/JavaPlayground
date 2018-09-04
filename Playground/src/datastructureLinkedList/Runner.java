@@ -1,4 +1,4 @@
-package linkedList;
+package datastructureLinkedList;
 
 public class Runner {
 
