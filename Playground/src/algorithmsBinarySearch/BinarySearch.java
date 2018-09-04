@@ -7,7 +7,7 @@ public class BinarySearch {
 	public static void main(String[] args) {
 		
 		//Creating array
-		int[] array = new int[14];
+		int[] array = new int[10];
 		
 		//Assigning numbers into array
 		//Random rand = new Random(); IGNORE this, array must be sorted
@@ -17,7 +17,7 @@ public class BinarySearch {
 			
 		}
 		System.out.println();	
-		System.out.println(BINARY_SEARCH(array, 8));
+		System.out.println(BINARY_SEARCH(array, 1));
 
 	}
 
